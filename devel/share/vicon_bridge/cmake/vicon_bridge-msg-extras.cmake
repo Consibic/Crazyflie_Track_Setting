@@ -1,0 +1,2 @@
+set(vicon_bridge_MESSAGE_FILES "/home/fsc1/Github/vicon_ws/src/extras/vicon_bridge/msg/Marker.msg;/home/fsc1/Github/vicon_ws/src/extras/vicon_bridge/msg/Markers.msg;/home/fsc1/Github/vicon_ws/src/extras/vicon_bridge/msg/TfDistortInfo.msg")
+set(vicon_bridge_SERVICE_FILES "/home/fsc1/Github/vicon_ws/src/extras/vicon_bridge/srv/viconCalibrateSegment.srv;/home/fsc1/Github/vicon_ws/src/extras/vicon_bridge/srv/viconGrabPose.srv")
