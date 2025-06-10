@@ -1,0 +1,2 @@
+extras/vicon_bridge
+-DCATKIN_DEVEL_PREFIX=/home/fsc1/Github/vicon_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fsc1/Github/vicon_ws/install -G Unix Makefiles
